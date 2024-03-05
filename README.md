@@ -1,4 +1,4 @@
-# Algoritmo-de-Quine-en.Haskell
+# Algoritmo-de-Quine-en-Haskell
 
 Este es un programa Quine en Haskell, un programa que imprime su propio código fuente cuando se ejecuta.
 
